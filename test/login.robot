@@ -37,7 +37,7 @@ Test title
 
 *** Keywords ***
 Begin Web Test
-   Open Browser     about:blank     firefox
+   Open Browser     about:blank     safari
 
 
 Login
